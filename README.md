@@ -85,4 +85,3 @@ The Travel Agency Software System provides a robust solution for travel agencies
 
 ---
 
-This documentation provides an overview of the travel agency software system, descriptions of its classes, methods, attributes, and enums, along with unit tests to verify their functionality. Adjustments can be made based on specific project requirements and additional details as needed.
