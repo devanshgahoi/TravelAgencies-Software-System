@@ -86,5 +86,3 @@ Unit tests have been written for each class using the JUnit framework to ensure 
 The Travel Agency Software System provides a robust solution for travel agencies to manage their travel packages, itineraries, destinations, activities, and passengers effectively. It offers comprehensive features to create, maintain, and monitor travel packages, ensuring a seamless experience for both travel agencies and passengers.
 
 ---
-
-This documentation provides an overview of the travel agency software system, descriptions of its classes, methods, attributes, and enums, along with unit tests to verify their functionality. Adjustments can be made based on specific project requirements and additional details as needed.
